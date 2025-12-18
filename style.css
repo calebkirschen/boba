@@ -1,0 +1,31 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #bdd8ee;
+    margin: 20px;
+}
+
+.heading {
+    color: #000000;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #000000; 
+    text-align: center;
+}
+
+.image-container {
+
+    text-align: center;
+    margin: 20px 0;
+    font-style: italic;
+    color: black;
+}   
+
+.rules-list {
+    color: #000000;
+    font-size: 18px;
+}
